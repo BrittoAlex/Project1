@@ -1,5 +1,6 @@
 a=8
 b=4
 d=7
-c=a+b=d
+e=3
+c=a+b+e+d
 print c
